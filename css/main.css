@@ -1,0 +1,27 @@
+.box{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-row-gap:1em;
+    grid-column-gap:1em;
+  }
+  .section{
+    display:grid;
+    grid-row-1em
+  }
+   body {
+      background-image: url("propic.jpg");
+            background-repeat:no-repeat;
+           background-size:cover;
+    }  
+    .section > div{
+      padding:1em;
+    }
+    .box > div{
+      background:#ffeead;
+      padding:3em;
+    }
+    .quotation blockquote {
+      width: 95%;
+      margin: 0 auto;
+      text-align: center;
+  }
