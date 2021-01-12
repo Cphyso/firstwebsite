@@ -4,14 +4,14 @@
     grid-row-gap:1em;
     grid-column-gap:1em;
   }
-  .section{
+.section{
     display:grid;
-    grid-row-1em
+    
   }
    body {
-      background-image: url("propic.jpg");
-            background-repeat:no-repeat;
-           background-size:cover;
+        background-image: url("propic.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
     }  
     .section > div{
       padding:1em;
